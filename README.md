@@ -1,1 +1,3 @@
-# quick-demo
+# Quick Demo
+
+This is a quick demo.
